@@ -1,6 +1,6 @@
-#### This project is for the Devops bootcamp exercise for
+#### This project is for the sample nodejs application building with npm tool
 
-#### "Cloud Basics"
+
 
 ##### Test
 The project uses jest library for tests. (see "test" script in package.json)
